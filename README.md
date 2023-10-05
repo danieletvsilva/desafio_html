@@ -1,7 +1,7 @@
 <h1 align="center"> Desafio HTML </h1>
 
 <p align="center">
-Desafios propostos pela Rocket Seat para aperfeiçoar os conhecimentos obtidos durante curso Discover.</a>
+Desafios propostos pela Rocket Seat para aperfeiçoar os conhecimentos obtidos durante curso Discover da plataforma.</a>
 </p>
 
 <p align="center">
